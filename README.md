@@ -18,7 +18,6 @@ Python으로 구현한 **포트폴리오 전략용 트레이딩 백테스트 엔
 #  프로젝트 구조
 
 ```
-trading-backtest-engine
 ├──── Trading_Backtest_Engine.ipynb
 ├──── requirements.txt
 └──── README.md
