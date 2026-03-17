@@ -103,9 +103,21 @@ Python 기반으로 구현되었습니다.
 
 1. 저장소 클론
 
+```
+git clone https://github.com/<jweon96>/<trading-backtest-engine>.git
+```
+
 2. 라이브러리 설치
 
+```
+pip install -r requirements.txt
+```
+
 3. Jupyter Notebook 실행
+
+```
+jupyter notebook
+```
 
 4. `Trading_Backtest_Engine.ipynb` 실행
 
