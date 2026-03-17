@@ -104,22 +104,28 @@ Python 기반으로 구현되었습니다.
 1. 저장소 클론
 
 ```bash
-git clone https://github.com/<jweon96>/<trading-backtest-engine>.git
+git clone https://github.com/jweon96/trading-backtest-engine.git
 ```
 
-2. 라이브러리 설치
+2. 디렉토리 이동
+
+```bash
+cd trading-backtest-engine
+```
+
+3. 라이브러리 설치
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Jupyter Notebook 실행
+4. Jupyter Notebook 실행
 
 ```bash
 jupyter notebook
 ```
 
-4. `Trading_Backtest_Engine.ipynb` 실행
+5. `Trading_Backtest_Engine.ipynb` 실행
 
 ---
 
